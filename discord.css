@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+.popalsa {
+    color: white;
+    font-size: 250px;
+    font-family: Burbank;
+    text-align: center;
+}
+
+.invisible {
+    color: black;
+    font-size: 250px;
+    text-align: center;
+}
